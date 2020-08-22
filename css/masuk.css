@@ -1,0 +1,26 @@
+
+
+body{
+	margin-top:50px;
+	margin-bottom: 100px;
+	background-image: url('../img/seminar.jpg');
+	background-size: cover;
+}
+
+footer{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	height:80px;
+	background-color: #333;
+	padding-top:30px;
+}
+
+footer p{
+	color:#aaa;
+	font-size: 0.9em;
+}
+
+.login{
+	margin-top:180px;
+}

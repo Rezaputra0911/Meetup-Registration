@@ -1,0 +1,30 @@
+/*Buat Seminar*/
+
+html{
+	position: relative;
+
+}
+
+.formulir{
+	height: 1000px;
+}
+
+.form{
+	width:60%;
+	height:700px;
+	float: right;
+	margin-top: 30px;
+	padding-left:15px;
+}
+
+.gambar{
+	width: 40%;
+    float: left;
+    background-size: cover;
+    overflow: hidden;
+}
+
+form{
+	margin-top:20px;
+}
+
